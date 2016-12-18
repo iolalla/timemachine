@@ -1,0 +1,16 @@
+{
+  "name": "timeMachine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "listFiles",
+    "start": "node server.js"
+  },
+  "author": "iolalla@gmail.com",
+  "license": "GPL",
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "~1.5.1"
+  }
+}
